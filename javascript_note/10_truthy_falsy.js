@@ -1,4 +1,6 @@
-// In JavaScript, a truthy value is a value that is considered true when evaluated in a Boolean context, while a falsy value is a value that is considered false when evaluated in a Boolean context.This can be useful when writing conditional statements or checking for the existence of a value.
+// In JavaScript, a truthy value is a value that is considered true when evaluated in a Boolean context, 
+while a falsy value is a value that is considered false when evaluated in a Boolean context.
+    This can be useful when writing conditional statements or checking for the existence of a value.
 
 // Here are some examples of truthy and falsy values in JavaScript:
 
